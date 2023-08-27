@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security basic techniques and Coding in java<br>👯 I’m looking to collaborate on any new Technology or tools.<br>🤝 I’m looking for help from different companies to give me opportunities to grow and develope my knowledge .<br>🌱 I’m currently learning Cyber Security basics in my internship.<br>💬 Ask me about Data Structures<br>
+ I’m looking to collaborate on any new Technology or tools.<br>🤝 I’m looking for help from different companies to give me opportunities to grow and develope my knowledge .<br>🌱 <br>💬 Ask me about Data Structures<br>
 
 
 ## 🌐 Socials:
